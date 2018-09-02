@@ -79,6 +79,7 @@ dependencies:
   - pandoc=2.2.1=h1a437c5_0
   - pandocfilters=1.4.2=py36_1
   - parso=0.3.1=py36_0
+  - patsy=0.5.0=py36_0
   - pexpect=4.6.0=py36_0
   - pickleshare=0.7.4=py36hf512f8e_0
   - pip=10.0.1=py36_0
@@ -102,6 +103,7 @@ dependencies:
   - requests=2.19.1=py36_0
   - scikit-learn=0.19.1=py36hf9f1f73_0
   - scipy=1.1.0=py36hf1f7d93_0
+  - seaborn=0.9.0=py36_0
   - send2trash=1.5.0=py36_0
   - service_identity=17.0.0=py36h28b3542_0
   - setuptools=40.0.0=py36_0
@@ -109,6 +111,7 @@ dependencies:
   - six=1.11.0=py36_1
   - sqlalchemy=1.2.11=py36h1de35cc_0
   - sqlite=3.24.0=ha441bb4_0
+  - statsmodels=0.9.0=py36h1d22016_0
   - tensorboard=1.10.0=py36hdc36e2c_0
   - tensorflow=1.10.0=eigen_py36h0906837_0
   - tensorflow-base=1.10.0=eigen_py36h4f0eeca_0
@@ -132,5 +135,7 @@ dependencies:
   - zlib=1.2.11=hf3cbc9b_2
   - zope=1.0=py36_0
   - zope.interface=4.5.0=py36h1de35cc_0
+  - pip:
+    - lifelines==0.14.6
 prefix: /Users/f00/anaconda/envs/machine_learning_cookbook
 
