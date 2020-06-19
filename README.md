@@ -1,6 +1,8 @@
 # machine-learning-with-python-cookbook-notes
 My jupyter notebooks/code samples from Chris Albon's Machine Learning with Python Cookbook
 
+https://nbviewer.jupyter.org/github/DustinAlandzes/machine-learning-with-python-cookbook-notes/tree/master/
+
 # usage
 ```
 git clone https://github.com/f00-/machine-learning-with-python-cookbook-notes.git
