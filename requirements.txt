@@ -51,7 +51,7 @@ nbconvert==5.3.1
 nbformat==4.4.0
 nbpresent==3.0.2
 notebook==6.1.5
-numpy==1.15.0
+numpy==1.22.0
 pandas==0.23.4
 pandocfilters==1.4.2
 parso==0.3.1
